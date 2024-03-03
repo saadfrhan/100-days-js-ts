@@ -1,0 +1,11 @@
+{
+  "name": "100-days-js-ts",
+  "scripts": {
+    "init-tsc": "tsc --init",
+    "build": "tsc"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
